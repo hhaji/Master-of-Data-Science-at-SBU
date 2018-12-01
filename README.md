@@ -14,7 +14,7 @@ Lecture: Saturday and Monday 10:00-12:00 AM (Fall 2018) <br>
 ```javascript
 The following courses will be offered for Spring semester:
 ```
-3. Applied Machine Learning, Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
+3. [Applied Machine Learning](https://github.com/hhaji/Applie-Machine-Learning-2019), Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 Lecture: Saturday and Monday 08:00-09:30 AM (Spring 2019) <br>
 4. Artificial Intelligence, Lecturer: [Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/) <br>
 Lecture: Saturday and Monday 10:00-11:30 AM (Spring 2019) <br>
