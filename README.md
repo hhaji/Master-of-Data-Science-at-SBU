@@ -1,4 +1,4 @@
-# Master of Science in Data Science at Shahid Beheshti University
+# Master of Science in Data Science 
 [Data Science Center](http://ds.sbu.ac.ir)<br> 
 [Shahid Beheshti University](http://www.sbu.ac.ir/) <br> 
 
