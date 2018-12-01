@@ -27,4 +27,4 @@ Finally, we expect to offer the following courses in the third semester:
 7. Deep Learning
 8. Data Mining
 9. Analysis and Modeling High Dimensional Data
-To learn about more courses in data science, please see [the general list of graduate courses of data science](http://ds.sbu.ac.ir/wp-content/uploads/2018/06/DataScience.pdf)(in Persian).
+To learn about more courses in data science, take a look at [the general list of graduate courses of data science](http://ds.sbu.ac.ir/wp-content/uploads/2018/06/DataScience.pdf)(in Persian).
