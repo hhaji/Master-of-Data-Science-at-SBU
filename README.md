@@ -8,9 +8,9 @@ The Master of Science in Data Science allows students to apply data science tech
 We are excited to offer the following courses next semester:
 ```
 1. [Algorithms for Data Science](https://github.com/hhaji/Algorithms-For-Data-Science-2018), Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)<br>
-Lecture: Saturday and Monday 08:00-10:00 AM (Fall 2018) <br>
+Lecture: Saturday and Monday 08:00-09:30 AM (Fall 2018) <br>
 2. [Mathematical Foundations of Data Science](https://github.com/kakavandi/Mathematical-Foundations-of-Data-Science), Lecturer: [Bijan Ahmadi](http://facultymembers.sbu.ac.ir/bijanahmadi/)<br>
-Lecture: Saturday and Monday 10:00-12:00 AM (Fall 2018) <br>
+Lecture: Saturday and Monday 10:00-11:30 AM (Fall 2018) <br>
 ```javascript
 The following courses will be offered for Spring semester:
 ```
