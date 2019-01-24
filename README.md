@@ -16,7 +16,7 @@ The following courses will be offered for Spring semester:
 ```
 3. [Applied Machine Learning](https://github.com/hhaji/Applie-Machine-Learning-2019), Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 Lecture: Saturday and Monday 08:00-09:30 AM (Spring 2019) <br>
-4. Artificial Intelligence, Lecturer: [Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/) <br>
+4. Probabilistic Graphical Models, Lecturer: [Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/) <br>
 Lecture: Saturday and Monday 10:00-11:30 AM (Spring 2019) <br>
 5. Optimization for Data Science, Lecturer: [Bijan Ahmadi](http://facultymembers.sbu.ac.ir/bijanahmadi/) <br>
 Lecture: Saturday and Monday 13:00-14:30 AM (Spring 2019) <br>
