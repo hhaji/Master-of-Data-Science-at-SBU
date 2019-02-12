@@ -22,7 +22,7 @@ Lecture: Saturday and Monday 13:00-14:30 AM (Spring 2019) <br>
 ```javascript
 Finally, we expect to offer the following courses in the third semester:
 ```
-6. Special Topics in Data Science (Exploratory Data Analysis & Visualization)
+6. Special Topics in Data Science (Exploratory Data Analysis)
 7. Deep Learning
 8. Data Mining
 9. Analysis and Modeling High Dimensional Data <br>
