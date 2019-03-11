@@ -23,7 +23,7 @@ Lecture: Saturday and Monday 13:00-14:30 AM (Spring 2019) <br>
 Finally, we expect to offer the following courses in the third semester:
 ```
 6. Special Topics in Data Science (Exploratory Data Analysis)
-7. [Deep Learning](https://hhaji.github.io/Deep-Learning/)
+7. [Deep Learning](https://hhaji.github.io/Deep-Learning/), Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 8. Data Mining
 9. Analysis and Modeling High Dimensional Data <br>
 To learn about more courses in data science, take a look at [the general list of graduate courses of data science](http://ds.sbu.ac.ir/wp-content/uploads/2018/06/DataScience.pdf) (in Persian).
