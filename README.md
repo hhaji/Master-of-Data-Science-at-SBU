@@ -18,7 +18,7 @@ Lecture: Saturday and Monday 08:00-09:30 AM (Spring 2019) <br>
 4. Probabilistic Graphical Models, Lecturer: [Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/) <br>
 Lecture: Saturday and Monday 10:00-11:30 AM (Spring 2019) <br>
 5. [Optimization for Data Science](https://github.com/kakavandi/Optimization-For-Data-Science), Lecturer: [Bijan Ahmadi](http://facultymembers.sbu.ac.ir/bijanahmadi/) <br>
-Lecture: Saturday and Monday 13:00-14:30 AM (Spring 2019) <br>
+Lecture: Saturday and Monday 13:30-15:00 AM (Spring 2019) <br>
 ```javascript
 Finally, we expect to offer the following courses in the third semester:
 ```
