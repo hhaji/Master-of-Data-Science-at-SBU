@@ -22,8 +22,13 @@ Lecture: Saturday and Monday 13:30-15:00 AM (Spring 2019) <br>
 ```javascript
 Finally, we expect to offer the following courses in the third semester:
 ```
-6. Special Topics in Data Science (Exploratory Data Analysis)
+6. Data Mining, Lecturer [Mohammad Reza Faghihi Habibabadi](http://www.sbu.ac.ir/Pages/Profiles.aspx?proffID=375556) <br>
+Lecture: Sunday and Tuesday 08:00-09:30 AM (Fall 2019) <br>
 7. [Deep Learning](https://hhaji.github.io/Deep-Learning/), Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
-8. Data Mining
-9. Analysis and Modeling High Dimensional Data <br>
+Lecture: Sunday and Tuesday 13:00-14:30 AM (Fall 2019) <br>
+8. [Algorithms for Data Science](https://hhaji.github.io/Algorithms-For-Data-Science/) <br>
+Lecture: Saturday and Monday 08:00-09:30 AM (Fall 2019) <br>
+9. [Mathematical Foundations of Data Science](https://github.com/kakavandi/Mathematical-Foundations-of-Data-Science), Lecturer: [Bijan Ahmadi](http://facultymembers.sbu.ac.ir/bijanahmadi/)<br>
+Lecture: Saturday and Monday 10:00-11:30 AM (Fall 2019) <br>
+
 To learn about more courses in data science, take a look at [the general list of graduate courses of data science](http://ds.sbu.ac.ir/wp-content/uploads/2018/06/DataScience.pdf) (in Persian).
