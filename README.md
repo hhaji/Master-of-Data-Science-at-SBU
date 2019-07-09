@@ -26,7 +26,7 @@ Finally, we expect to offer the following courses in the third semester:
 Lecture: Sunday and Tuesday 08:00-09:30 AM (Fall 2019) <br>
 7. [Deep Learning](https://hhaji.github.io/Deep-Learning/), Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 Lecture: Sunday and Tuesday 13:00-14:30 AM (Fall 2019) <br>
-8. [Algorithms for Data Science](https://hhaji.github.io/Algorithms-For-Data-Science/), Lecturer: [Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/) <br>
+8. Algorithms for Data Science, Lecturer: [Ali Katanforoush](http://facultymembers.sbu.ac.ir/katanforoush/) <br>
 Lecture: Saturday and Monday 08:00-09:30 AM (Fall 2019) <br>
 9. [Mathematical Foundations of Data Science](https://github.com/kakavandi/Mathematical-Foundations-of-Data-Science), Lecturer: [Bijan Ahmadi](http://facultymembers.sbu.ac.ir/bijanahmadi/)<br>
 Lecture: Saturday and Monday 10:00-11:30 AM (Fall 2019) <br>
