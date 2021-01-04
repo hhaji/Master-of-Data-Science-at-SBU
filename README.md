@@ -18,12 +18,13 @@
 <marquee style='width: 40%; color: red;'><b>Master of Science in Data Science!</b></marquee>
 ```
 
-```javascript
+```%%html
 <marquee style='width: 40%; color: red;'>
 <b>Master of Science in Data Science!</b>
 </marquee>
 ```
 
+%html
 <marquee style='width: 40%; color: red;'>
 <b>Master of Science in Data Science!</b>
 </marquee>
