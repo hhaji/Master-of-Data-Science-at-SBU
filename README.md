@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <marquee style='width: 40%; color: red;'><b>Master of Science in Data Science!</b></marquee>
