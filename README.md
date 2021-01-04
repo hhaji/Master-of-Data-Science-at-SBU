@@ -19,10 +19,14 @@
 ```
 
 ```javascript
-In this course, you will learn the foundations of Deep Learning, understand how to build 
-neural networks, and learn how to lead successful machine learning projects. You will learn 
-about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
+<marquee style='width: 40%; color: red;'>
+<b>Master of Science in Data Science!</b>
+</marquee>
 ```
+
+<marquee style='width: 40%; color: red;'>
+<b>Master of Science in Data Science!</b>
+</marquee>
 
 # Master of Science in Data Science 
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/) <br> 
