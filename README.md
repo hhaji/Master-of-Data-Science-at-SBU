@@ -5,10 +5,14 @@
 </svg>
 
 
-%html
+```javascript
+I<marquee style='width: 40%; color: red;'><b>Master of Science in Data Science!</b></marquee>
+```
+
+
+```html
 <marquee style='width: 40%; color: red;'><b>Master of Science in Data Science!</b></marquee>
-
-
+```
 
 # Master of Science in Data Science 
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/) <br> 
